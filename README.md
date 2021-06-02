@@ -8,7 +8,7 @@ concept
 ![concept sketch](amulet2.svg)
 
 3d
-![technical drawing](model/export/magic_amulet_worldportal.png)
+![technical drawing](model/export/magic_amulet_worldportal_3d.png)
 
 technical drawing
 ![technical drawing](model/export/overview.svg)
